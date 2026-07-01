@@ -4,13 +4,12 @@
 
 ### 🎥 Demo Video
 
-<video src="assets/output_sample.mp4" controls width="100%" autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
-
-**یا روی تصویر زیر کلیک کن برای پخش کامل:**
-
 [![Demo Preview](assets/output_sample_preview.png)](assets/output_sample.mp4)
+
+<p>
+  <strong>برای پخش ویدیو کلیک کنید ↑</strong><br>
+  <em>(ویدیو با bounding box و شمارش ماشین‌ها)</em>
+</p>
 
 </div>
 

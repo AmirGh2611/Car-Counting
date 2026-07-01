@@ -2,7 +2,6 @@
 
 <video controls autoplay loop muted playsinline width="100%">
   <source src="assets/output_sample.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## Overview

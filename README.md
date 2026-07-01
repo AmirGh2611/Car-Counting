@@ -1,9 +1,6 @@
 # Car Counting
 
-<video controls autoplay loop muted playsinline width="100%">
-  <source src="assets/output_sample.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo Preview](assets/output_sample_preview.png)](assets/output_sample.mp4)
 
 ## Overview
 This project is a car-counting pipeline built around a YOLOv8 object detection model. It detects cars in video footage and produces sample output videos with bounding boxes and counting results.

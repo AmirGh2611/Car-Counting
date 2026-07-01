@@ -1,6 +1,18 @@
 # Car Counting
 
+<div align="center">
+
+### 🎥 Demo Video
+
+<video src="assets/output_sample.mp4" controls width="100%" autoplay loop muted>
+  Your browser does not support the video tag.
+</video>
+
+**یا روی تصویر زیر کلیک کن برای پخش کامل:**
+
 [![Demo Preview](assets/output_sample_preview.png)](assets/output_sample.mp4)
+
+</div>
 
 ## Overview
 This project is a car-counting pipeline built around a YOLOv8 object detection model. It detects cars in video footage and produces sample output videos with bounding boxes and counting results.
@@ -20,11 +32,8 @@ This project is a car-counting pipeline built around a YOLOv8 object detection m
 - Exported ONNX model for deployment use
 
 ## Requirements
-Install the required Python packages before running the project:
-
 ```bash
 pip install -r requirements.txt
-```
 
 ## Usage
 1. Open [train_code.ipynb](train_code.ipynb) to inspect the training workflow.
